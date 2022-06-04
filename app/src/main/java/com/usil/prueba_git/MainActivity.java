@@ -16,6 +16,6 @@ public class MainActivity extends AppCompatActivity {
 
     private void asignarReferencias() {
         prueba=findViewById(R.id.txtPrueba);
-        prueba.setText("Holaasd");
+        prueba.setText("qqq");
     }
 }
